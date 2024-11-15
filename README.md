@@ -1,6 +1,6 @@
 # Lightspeed Test Task
 
-This repository contains a full-stack project for the Lightspeed Test Task with separate frontend and backend modules. It leverages Docker, Docker Compose, and Node.js technologies to build, run, and test the application. The frontend is built using **Vue 3**, **Vite**, and **TypeScript**, while the backend is developed using **Express.js**.
+This repository contains a full-stack project for the Lightspeed Test Task with separate frontend and backend modules. It uses Docker, Docker Compose, and Node.js technologies to build, run, and test the application. The frontend is built using **Vue 3**, **Vite**, and **TypeScript**, while the backend is developed using **Express.js**.
 
 ## Project Structure
 
