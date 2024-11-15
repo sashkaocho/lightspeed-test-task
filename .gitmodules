@@ -1,6 +1,6 @@
-[submodule "frontend"]
-    path = frontend
-    url = git@github.com:sashkaocho/lightspeed-test-task-front.git
-[submodule "backend"]
-    path = backend
-    url = git@github.com:sashkaocho/lightspeed-test-task-back.git
+[submodule "lightspeed-test-task-front"]
+	path = lightspeed-test-task-front
+	url = git@github.com:sashkaocho/lightspeed-test-task-front.git
+[submodule "lightspeed-test-task-back"]
+	path = lightspeed-test-task-back
+	url = git@github.com:sashkaocho/lightspeed-test-task-back.git
