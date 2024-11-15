@@ -26,8 +26,10 @@ Follow the steps below to set up and run the project on your local machine:
 Clone the main repository and its submodules (frontend and backend):
 
 ```bash
-git clone https://your-repo-url](https://github.com/sashkaocho/lightspeed-test-task.git
+git clone https://github.com/sashkaocho/lightspeed-test-task.git
+
 cd lightspeed-test-task
+
 git submodule update --init --recursive
 ```
 
