@@ -14,6 +14,9 @@ This repository contains a full-stack project for the Lightspeed Test Task with 
 - **Git** (for version control)
 - **Node.js** (for backend and frontend development)
 
+- **Port 3000** for backend
+- **Port 5173** for frontend
+
 ## Setup and Installation
 
 Follow the steps below to set up and run the project on your local machine:
@@ -26,3 +29,11 @@ Clone the main repository and its submodules (frontend and backend):
 git clone https://your-repo-url
 cd my-project
 git submodule update --init --recursive
+```
+
+### 2. Build and Start the Containers
+
+Clone the main repository and its submodules (frontend and backend):
+
+```bash
+docker-compose up --build
