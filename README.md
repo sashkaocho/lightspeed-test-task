@@ -35,7 +35,5 @@ git submodule update --init --recursive
 
 ### 2. Build and Start the Containers
 
-Clone the main repository and its submodules (frontend and backend):
-
 ```bash
 docker-compose up --build
